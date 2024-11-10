@@ -1,5 +1,4 @@
 import pandas as pd
-
 from flask import Flask, request, jsonify
 from category_encoders import HashingEncoder
 import pickle
